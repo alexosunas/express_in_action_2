@@ -1,0 +1,13 @@
+.DS_Store
+
+.vagrant/
+.idea/
+build/
+docs/
+apidoc/
+
+# configuration file
+config/config.js
+
+# NPM packages folder.
+node_modules
